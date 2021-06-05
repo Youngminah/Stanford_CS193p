@@ -1,5 +1,16 @@
+<br></br>
+<br></br>
+
 # Stanford_CS193p
-🥕 2020 SwiftUI 코스
+🥕 2020 스탠포드 대학교 SwiftUI 코스
+
+<br></br>
+<br></br>
+
+### ▶︎ 현재 진행중
+
+<br></br>
+<br></br>
 
 
 ## :memo: Commit Convention
